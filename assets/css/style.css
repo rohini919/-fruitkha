@@ -1,0 +1,410 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.fw
+{
+    font-weight: 700;
+}
+.full
+{
+    background-image: url(../img/img/hero-bg.jpg);
+    height: 650px;
+    position: relative;
+    margin-left: -12px;
+}
+.overlay
+{
+    background-color: black;
+    opacity: 0.6;
+    position: absolute;
+    height: 651px;
+    width: 1522px;
+    margin-left: -13px;
+}
+.nav-link.active{
+    color: rgb(237, 124, 42) !important;
+}
+li
+{
+    font-weight: 700;
+}
+/*hero section css start*/
+#hero-section .heading
+{
+    color:rgb(234, 129, 42);
+    padding-top: 317px;
+    letter-spacing: 8px;
+}
+#hero-section .delicious
+{
+font-size: 60px;
+}
+#hero-section .hero-button
+{
+    background-color: rgb(237, 124, 42);
+}
+#hero-section .hero-button2
+{
+    border:2px solid rgb(237, 124, 42);
+    background-color: transparent;
+}
+/*hero section end*/
+
+/*second section started*/
+.second-con
+{
+ background-color: rgb(171 171 171);
+}
+#second-section
+{
+    padding-top: 80px;
+}
+.dot-circle
+{
+    border: 2px dotted rgb(237, 124, 42);
+    background-color: transparent;
+    height: 62px;
+    width: 65px;
+}
+.dot-circle i
+{
+    color:rgb(237, 124, 42);
+    font-size: 30px;
+}
+.con-div
+{
+    padding-top: 90px;
+    padding-bottom: 65px;
+}
+/*second section end*/
+
+/*our product section css started*/
+.product-con
+{
+padding-top: 100px;
+background-color: hsl(0, 1%, 77%);
+}
+#product-section .text-top-product span
+{
+color: rgb(237, 124, 42);
+}
+#product-section .text-top-product h1::after
+{
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    content: "";
+    width: 46px;
+    height: 2px;
+    position: absolute;
+    top: 1022px;
+    left: 750px;
+}
+.text-top-product
+{
+    width: 532px;
+}
+.cart-button
+{
+    background-color:  rgb(237, 124, 42);
+}
+.card-droduct
+{
+    margin-top:60px;
+    background-color: hsl(0, 7%, 86%);
+    box-shadow:5px 5px 10px gray;
+    margin-bottom: 200px;
+}
+/*our product section css end*/
+
+/*deal section srarted*/
+.deal-section-con
+{
+    background-color: hsl(0deg 0% 65.1%);
+    padding-bottom: 100px;
+}
+#deal-section span
+{
+    color: rgb(237, 124, 42);
+}
+#deal-section img
+{
+    margin-top: 143px;
+}
+#deal-section .text-product
+{
+    margin-top: 136px;
+}
+.col-product
+{
+    border: 2px solid rgb(237, 124, 42);
+        height: 83px;
+    width: 77px;
+}
+.col-product h2
+{
+    color: rgb(237, 124, 42);
+}
+.text-product h1
+{
+ font-size: 40px;
+}
+.circle 
+{
+background-color: hsl(27.52deg 47.19% 45.29%);
+height: 120px;
+    width: 120px;
+    text-align: center;
+    padding: 9px;
+        position: absolute;
+    top: 2159px;
+    left: 193px;
+}
+.inner-circle
+{
+background-color: hsl(27.31deg 75.13% 37.84%);
+height: 100px;
+width: 100px;
+padding: 10px;
+}
+/*deal section end*/
+
+
+/*owner section started*/
+#owner .owner-cont
+{
+   background-color:hsl(0deg 0% 69.8%);
+   padding: 140px;
+}   
+#owner .text-owner{
+    width: 630px;
+}
+
+#owner .heading-owner
+{
+ color: hsl(198deg 5.15% 38.04%);
+}
+#owner .para-owner
+{
+    color: hsl(198deg 5.15% 38.04%);
+}
+/*owner section end*/
+/*fruitkha section started*/
+#fruitkha-section
+{
+    background-color:hsl(0deg 0% 69.8%);
+    padding-bottom: 100px;
+}
+#fruitkha-section img
+{
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    position: relative;
+}
+#fruitkha-section .fruitkha-text
+{
+    width: 444px;
+}
+#fruitkha-section .know
+{
+   background-color:  rgb(237, 124, 42);
+} 
+#fruitkha-section .fruitkha-text span
+{
+    color: rgb(237, 124, 42);
+}
+.heading-fruitkha
+{
+    font-size: 45px;
+}
+.play-circle
+{
+    background-color:rgb(237, 124, 42);
+    height: 60px;
+    width: 60px;
+    padding:10px 10px 10px 22px;
+    position: absolute;
+    left: 341px;
+    top: 3535px;
+    z-index: 99;
+    font-size: 25px;
+}
+/*fruitkha section end*/
+
+/*discount section started*/
+#discount-section .discount-con
+{
+    background-image: url(../img/img/1.jpg);
+}
+#discount-section .discount-con span
+{
+    color: rgb(237, 124, 42);
+}
+#discount-section .discount-con h1
+{
+    font-size: 50px;
+    font-weight: 700;
+}
+#discount-section h5
+{
+    width: 50px;
+    display: inline-block;
+}
+#discount-section p
+{
+    display: inline-block;
+}
+.deco-text
+{
+    width: 500px;
+    padding: 100px 0px 48px;
+}
+.shop
+{
+    display: block;
+    background-color: rgb(237, 124, 42);
+}
+.spn
+{
+    font-size: 60px;
+}
+/*discount section end*/
+
+/*news section started*/
+#news-section
+{
+    background-color:hsl(0deg 0% 69.8%);
+}
+#news-section .news-text span
+{
+ color: rgb(237, 124, 42);
+}
+#news-section .news-text h1::after
+{
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    content: "";
+    width: 46px;
+    height: 2px;
+    position: absolute;
+       top: 4498px;
+    left: 744px;
+}
+#news-section .news-text
+{
+    width:536px;
+        padding-top: 100px;
+}
+.card
+{
+    width: 378px;
+}
+.more-news
+{
+    background-color: rgb(237, 124, 42);
+    margin-left: 566px;
+    margin-bottom: 100px;
+}
+/*news section end*/
+
+/*logo section started*/
+#logo-section .logo-con
+{
+background-color: hsl(0deg 0% 67.06%);
+padding: 70px;
+}
+/*logo section end*/
+/*footer section started*/
+#footer-section .footer-con
+{
+    background-color: hsl(200deg 77.78% 5.29%);
+}
+#footer-section .about-us h2::after
+{
+    content: "";
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    width: 30px;
+    height: 2px;
+    position: absolute;
+     left: 112px;
+    margin-top: 57px;
+
+}
+#footer-section .about-us
+{
+    width: 297px;
+}
+
+#footer-section .tget-in h2::after
+{
+    content: "";
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    width: 30px;
+    height: 2px;
+    position: absolute;
+     left: 448px;
+    margin-top: 57px;
+}
+
+#footer-section .pages h2::after
+{
+    content: "";
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    width: 30px;
+    height: 2px;
+    position: absolute;
+     left: 741px;
+    margin-top: 57px;
+}
+#footer-section .subscrib h2::after
+{
+    content: "";
+    display: inline-block;
+    background-color: rgb(237, 124, 42);
+    width: 30px;
+    height: 2px;
+    position: absolute;
+     left: 1073px;
+    margin-top: 57px;
+}
+#footer-section p
+{
+    color: hsl(198deg 5% 39.22%);
+}
+
+.paper-plane
+{
+  background-color: hsl(198.95deg 95% 7.84%);
+}
+#footer-section input
+{
+  background-color: hsl(198.95deg 95% 7.84%);
+
+}
+.paper-plane i
+{
+    color: rgb(237, 124, 42);
+}
+
+.pages i
+{
+    color:  rgb(237, 124, 42);
+}
+.copy span
+{
+ color: rgb(237, 124, 42);
+}
+.copy i
+{
+    color: hsl(200deg 2.38% 50.59%);
+    font-size: 20px;
+}
+.tx 
+{
+    width: 451px;
+}
+/*footer section end*/
